@@ -48,7 +48,7 @@ After the adjustment and Thomas High School has the lower percentages, the schoo
 ### Adjusted Math and Reading Scores for 9th Graders
 #### Original Math and Reading Scores
 ![Original Math Scores](Resources/Math_Scores_Original.png)
-![Original Reading Scores](Resources/Original_Reading_Scores.png)
+![Original Reading Scores](Resources/Reading_Scores_Original.png)
 
 Thomas High Schools from the original Analysis shows a Math Score of 83.6% and a Reading Score of 83.7%.
 
