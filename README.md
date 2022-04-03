@@ -59,7 +59,7 @@ Thomas High Schools from the original Analysis shows a Math Score of 83.6% and a
 Once adjusted, the Math and Reading Scores now show `NaN` to signify Null Data and allows the data to reflect more accurate results.
 
 ### Scores by School Spending
-Thomas High School fell in the range of $631-$645 spending. While my numbers seemed to have changed in the below analysis, usually the changing of the scores would not affect the spending per student. Getting these numbers to reflect properly were a Challenge for me because when you go back to try and find the error, it can be overwhelming to go back through so much coding.
+Thomas High School fell in the range of $631-$645 spending. The change is less than a 1% difference, the Overall Passing Percentage changed from 62.86% to 62.78%. Therefore, the 9th grade data did not impact this larger scale analysis as much as the first couple comparisons.
 
 #### Original Analysis
 ![Original Score by School](Resources/Spending_Summary_Original.png)
